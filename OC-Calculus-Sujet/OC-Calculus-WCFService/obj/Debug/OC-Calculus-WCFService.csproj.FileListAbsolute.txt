@@ -1,0 +1,13 @@
+C:\Users\Nicolas\documents\visual studio 2013\Projects\OC-Calculus\OC-Calculus-WCFService\bin\OC-Calculus-WCFService.dll.config
+C:\Users\Nicolas\documents\visual studio 2013\Projects\OC-Calculus\OC-Calculus-WCFService\bin\OC-Calculus-WCFService.dll
+C:\Users\Nicolas\documents\visual studio 2013\Projects\OC-Calculus\OC-Calculus-WCFService\bin\OC-Calculus-WCFService.pdb
+C:\Users\Nicolas\documents\visual studio 2013\Projects\OC-Calculus\OC-Calculus-WCFService\obj\Debug\OC-Calculus-WCFService.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\documents\visual studio 2013\Projects\OC-Calculus\OC-Calculus-WCFService\obj\Debug\OC-Calculus-WCFService.dll
+C:\Users\Nicolas\documents\visual studio 2013\Projects\OC-Calculus\OC-Calculus-WCFService\obj\Debug\OC-Calculus-WCFService.pdb
+C:\Users\Nicolas\SkyDrive\Documents\OpenClassrooms2\Activites\OC-Calculus\OC-Calculus-Sujet\OC-Calculus-WCFService\obj\Debug\OC-Calculus-WCFService.csprojResolveAssemblyReference.cache
+C:\PERSO\document\Stévie JEAN-LOUIS\OpenClassRoom\C#\OC-Calculus-Sujet\OC-Calculus-WCFService\bin\OC-Calculus-WCFService.dll.config
+C:\PERSO\document\Stévie JEAN-LOUIS\OpenClassRoom\C#\OC-Calculus-Sujet\OC-Calculus-WCFService\bin\OC-Calculus-WCFService.dll
+C:\PERSO\document\Stévie JEAN-LOUIS\OpenClassRoom\C#\OC-Calculus-Sujet\OC-Calculus-WCFService\bin\OC-Calculus-WCFService.pdb
+C:\PERSO\document\Stévie JEAN-LOUIS\OpenClassRoom\C#\OC-Calculus-Sujet\OC-Calculus-WCFService\obj\Debug\OC-Calculus-WCFService.csprojResolveAssemblyReference.cache
+C:\PERSO\document\Stévie JEAN-LOUIS\OpenClassRoom\C#\OC-Calculus-Sujet\OC-Calculus-WCFService\obj\Debug\OC-Calculus-WCFService.dll
+C:\PERSO\document\Stévie JEAN-LOUIS\OpenClassRoom\C#\OC-Calculus-Sujet\OC-Calculus-WCFService\obj\Debug\OC-Calculus-WCFService.pdb
